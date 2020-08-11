@@ -36,6 +36,6 @@ AndroidToolkit4Dev - Công cụ mạnh mẽ hỗ trợ code tool Android cho dev
 - Quản lý các lệnh Shell: Lưu, tìm kiếm, xóa lịch sử ...
 - Hỗ trợ phím tắt
 
-Download: https://secufiles.com/f785/AndroidToolkit4Dev_Beta.rar 
+Download: https://github.com/tuanvhit/AndroidToolkit4Dev/releases
 
 Discussion group: http://www.fb.com/2666062753653727
