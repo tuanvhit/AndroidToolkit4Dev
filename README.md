@@ -15,11 +15,11 @@ AndroidToolkit4Dev - Toolkit to help developer build tools android (Beta, x86/x6
 - Manage Shell commands: Save, search, delete history ...
 - Shortcuts support
 
-![S1](https://github.com/tuanvhit/AndroidToolkit/raw/master/screenshot_1.png)
+![S1](https://github.com/tuanvhit/AndroidToolkit4Dev/raw/master/screenshot_1.png)
 
-![S2](https://github.com/tuanvhit/AndroidToolkit/raw/master/screenshot_2.png)
+![S2](https://github.com/tuanvhit/AndroidToolkit4Dev/raw/master/screenshot_2.png)
 
-![S3](https://github.com/tuanvhit/AndroidToolkit/raw/master/screenshot_3.png)
+![S3](https://github.com/tuanvhit/AndroidToolkit4Dev/raw/master/screenshot_3.png)
 
 AndroidToolkit4Dev - Công cụ mạnh mẽ hỗ trợ code tool Android cho dev (Beta, x86/x64, v2020.01.16, .NET 4.8)
 
